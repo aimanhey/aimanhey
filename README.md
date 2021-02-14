@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Beginner but finding for a job 😄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanhey&show_icons=true)
