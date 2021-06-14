@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Beginner but finding for a job 😄
+- 🌱 I’m currently learning SpringBoot
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey)
