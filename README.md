@@ -19,6 +19,6 @@ Beginner but finding for a job 😄
 - 🌱 I’m currently learning SpringBoot
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanhey&show_icons=true)
