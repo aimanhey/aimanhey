@@ -23,5 +23,5 @@ Beginner but finding for a job 😄
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
-[![Spotify](https://aimanhey.vercel.app/api/spotify)](https://open.spotify.com/user/zww0ynfsuo2mtk598pl379ek2)
+![Spotify](https://aimanhey.vercel.app/api/spotify)(https://open.spotify.com/user/zww0ynfsuo2mtk598pl379ek2)
 
