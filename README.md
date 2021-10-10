@@ -23,5 +23,6 @@ Beginner but finding for a job 😄
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 
