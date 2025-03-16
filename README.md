@@ -18,7 +18,7 @@ Beginner but finding for a job 😄
 -->
 
 
-- 🌱 I’m currently learning SpringBoot
+- 🌱 I’m currently working on a number of projects 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
