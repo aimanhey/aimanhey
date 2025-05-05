@@ -18,7 +18,7 @@ Beginner but finding for a job 😄
 -->
 
 
-- 🌱 I’m currently working on a number of projects 
+- 🌱 I’m currently working on a number of projects to showcase my skills for career
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
