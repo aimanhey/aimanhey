@@ -22,5 +22,5 @@ Beginner but finding for a job 😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanhey&label=Profile%20views&color=0e75b6&style=flat" alt="dev-krish-xyz" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanhey&layout=compact)-->
 
